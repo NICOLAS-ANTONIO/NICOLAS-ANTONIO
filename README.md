@@ -22,6 +22,27 @@
 
 ### Mis proyectos:
 
+**1. Proyecto Machine Learning utilizando base de datos de la plataforma Steam.**
+
+Este proyecto consiste en el tratamiento de bases de datos de la plataforma de juegos Steam para su posterior análisis. Dicha información se utiliza para la creación de cinco funciones que permiten explorar la naturaleza de los datos. Estas funciones posteriormente son desplegadas como API a través de la plataforma render. Finalmente, el proceso finzaliza en un modelo de recomendación item-item basado en similitud del coseno que también es desplegada como API en render.
+**Link:** https://github.com/NICOLAS-ANTONIO/PI_ML
+
+**2. Proyecto Data Analyst y visualización de datos de siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA).**
+
+En este proyecto se realiza la extracción, transformación y carga de datos (ETL), análisis de exploración de datos (EDA) y web scraping para complementar los datos. Posteriormente, con los datos ya tratados, se proponen KPI’s en orden a reducir los siniestros viales en CABA. El proyecto finaliza en un dashboard(Power BI) que expone los KPI’s sugeridos y los principales hallazgos de la investigación.
+**Link:** https://github.com/NICOLAS-ANTONIO/PI2
+
+**3. Proyecto Machine Learning para la incorporación de vehículos eléctricos en un flota de taxis de Nueva York.**
+
+Este proyecto consiste en un tratamiento acabado de los datos realizando el ETL y EDA correspondiente, además de web scraping para complementar la información. La pipeline de este proyecto es realizada en google Cloud. Las conclusiones de este proyecto, junto con los KPI's propuestos, son expuestos en Looker Studio. Se utiliza un modelo de machine learning, en concreto una regresión ElasticNet, para predecir el costo total de un viaje en taxi en la ciudad de Nueva York. Dicho modelo es desplegado a través de streamlit.
+**Link:** https://github.com/NICOLAS-ANTONIO/Proyecto-ML?tab=readme-ov-file
+
+### Contacto:
+
+* **LinkedIn:** [Nicolás Antonio](https://www.linkedin.com/in/nicol%C3%A1s-salamanca-murgas-070428183/)
+* **Correo electrónico:** nicolas.antonio.sm@outlook.com
+
+
 
 
 
