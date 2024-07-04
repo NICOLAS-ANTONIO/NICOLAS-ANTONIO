@@ -37,6 +37,13 @@ En este proyecto se realiza la extracción, transformación y carga de datos (ET
 Este proyecto consiste en un tratamiento acabado de los datos realizando el ETL y EDA correspondiente, además de web scraping para complementar la información. La pipeline de este proyecto es realizada en google Cloud. Las conclusiones de este proyecto, junto con los KPI's propuestos, son expuestos en Looker Studio. Se utiliza un modelo de machine learning, en concreto una regresión ElasticNet, para predecir el costo total de un viaje en taxi en la ciudad de Nueva York. Dicho modelo es desplegado a través de streamlit.
 **Link:** https://github.com/NICOLAS-ANTONIO/Proyecto-ML?tab=readme-ov-file
 
+**4. Análisis Predictivo de Factores de Riesgo para Hospitalización Post-Biopsia Prostática.**
+
+Este proyecto consiste en un análisis predictivo para identificar factores de riesgo de hospitalización post-biopsia prostática. En una primera etapa se realizó exploración y limpieza de datos, manejo de valores nulos y duplicados, y eliminación de variables redundantes. En segunda instancia, se prepararon los datos que incluyò transformación de variables y manejo de desequilibrios en la variable objetivo. Finalmente, se realizò un modelamiento utilizando Árbol de Decisión y k-vecinos, con ajuste de hiperparámetros y evaluación de rendimiento.
+El modelo k-vecinos optimizado logró una exactitud del 97.37%, precisión del 80% y recuperación del 66.67%, mostrando un rendimiento sólido en la predicción de hospitalizaciones.
+
+**Link:** https://github.com/NICOLAS-ANTONIO/ML_Medicina
+
 ### Contacto:
 
 * **LinkedIn:** [Nicolás Antonio](https://www.linkedin.com/in/nicol%C3%A1s-salamanca-murgas-070428183/)
