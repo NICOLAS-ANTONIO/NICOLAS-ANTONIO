@@ -1,8 +1,8 @@
 # Nicolás Salamanca
 
-## Data Engineer | Sociólogo | Python | SQL | Bash/Shell | Power BI
+## Data Scientist Jr | Sociólogo | Python | SQL | Bash/Shell | Power BI
 
-**¡Bienvenido a mi página! Me llamo Nicolás, soy Sociólogo y Data Engineer. Aquí puedes ver algunos de los proyectos que he realizado.**
+**¡Bienvenido a mi página! Me llamo Nicolás, soy Sociólogo y Data Scientist. Aquí puedes ver algunos de los proyectos que he realizado.**
 
 ### Herramientas con las que trabajo:
 
@@ -39,7 +39,7 @@ Este proyecto consiste en un tratamiento acabado de los datos realizando el ETL 
 
 **4. Análisis Predictivo de Factores de Riesgo para Hospitalización Post-Biopsia Prostática.**
 
-Este proyecto consiste en un análisis predictivo para identificar factores de riesgo de hospitalización post-biopsia prostática. En una primera etapa se realizó exploración y limpieza de datos, manejo de valores nulos y duplicados, y eliminación de variables redundantes. En segunda instancia, se prepararon los datos que incluyò transformación de variables y manejo de desequilibrios en la variable objetivo. Finalmente, se realizò un modelamiento utilizando Árbol de Decisión y k-vecinos, con ajuste de hiperparámetros y evaluación de rendimiento.
+Este proyecto consiste en un análisis predictivo para identificar factores de riesgo de hospitalización post-biopsia prostática. En una primera etapa se realizó exploración y limpieza de datos, manejo de valores nulos y duplicados, y eliminación de variables redundantes. En segunda instancia, se prepararon los datos que incluyó transformación de variables y manejo de desequilibrios en la variable objetivo. Finalmente, se realizó un modelamiento utilizando Árbol de Decisión y k-vecinos, con ajuste de hiperparámetros y evaluación de rendimiento.
 El modelo k-vecinos optimizado logró una exactitud del 97.37%, precisión del 80% y recuperación del 66.67%, mostrando un rendimiento sólido en la predicción de hospitalizaciones.
 
 **Link:** https://github.com/NICOLAS-ANTONIO/ML_Medicina
