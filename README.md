@@ -1,6 +1,6 @@
 # Nicolás Salamanca
 
-## Data Scientist Jr | Sociólogo | Python | SQL | Bash/Shell | Power BI
+## Data Scientist Jr | Sociólogo | Python | SQL | Bash | Power BI
 
 **¡Bienvenido a mi página! Me llamo Nicolás, soy Sociólogo y Data Scientist. Aquí puedes ver algunos de los proyectos que he realizado.**
 
