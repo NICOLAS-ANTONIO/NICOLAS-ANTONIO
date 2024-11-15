@@ -47,7 +47,7 @@ El modelo k-vecinos optimizado logró una exactitud del 97.37%, precisión del 8
 El proyecto pretende entregar insights valiosos para que los inversionistas puedan tomar decisiones informadas. En concreto, se consideran las empresas energéticas más grandes de América Latina que cotizan en la bolsa de NYC. Los datos financieros de las empresas energéticas se extraen mediante webscraping de Yahoo Finance. Luego, estos datos son transformados y explorados para rescatar información relevante para nuestros propósitos, y para la creación del modelo de Machine Learning. Este modelo permite, basándose en datos históricos y de los últimos días, predecir el comportamiento de las acciones para el día siguiente.
 Se utiliza la API de News API para recabar noticias de los últimos 30 días de las empresas seleccionadas. Nos enfocamos en las noticias negativas, pues tienen más impacto en el comportamiento de las acciones. Con estos datos realizamos un análisis de sentimiento para saber si existe correlación positiva o negativa con el comportamiento de las acciones. Es decir, nos permite ver si las acciones de las empresas bajan o no ante la presencia de noticias negativas. Con esta información podemos descubrir cuáles empresas son más resilientes ante noticias negativas y por lo tanto son una mejor opción para invertir.
 Finalmente, tanto el modelo como el análisis de sentimiento son desplegados con Streamlit.
-**Link:**https://github.com/NICOLAS-ANTONIO/c20-71-n-data-bi
+**Link:** https://github.com/NICOLAS-ANTONIO/c20-71-n-data-bi
 
 
 ### Contacto:
